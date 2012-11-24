@@ -1,6 +1,8 @@
 producteev-auto-login
 =====================
 
+[Download on the chrome web store](https://chrome.google.com/webstore/detail/producteev-auto-login/dbmjalgigkhfhmckigghggodkafpfdfl).
+
 Automatically login to producteev.
 
 Whenever you go to http://pdtv.me/ or http://producteev.com/, you are presented with a login screen.
